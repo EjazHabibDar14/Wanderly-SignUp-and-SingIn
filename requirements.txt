@@ -1,0 +1,15 @@
+firecrawl-py
+openai
+python-dotenv
+pandas
+openpyxl
+langchain
+langchain_chroma
+langchain_community
+langchain_openai
+flask
+flask_sqlalchemy 
+psycopg2-binary
+streamlit
+flask_jwt_extended
+transformers
